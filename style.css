@@ -154,7 +154,7 @@ button{
   }
 
   h3{
-    font-size: 200%;
+    font-size: 100%;
   }
 
   p{
@@ -180,5 +180,7 @@ button{
   .foot{
     font-size: 2rem;
   }
+
+
 
 }
