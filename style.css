@@ -1,0 +1,134 @@
+body{
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+.topcontainer{
+  background-color: #EAF6F6;
+  position: relative;
+  padding-top: 100px;
+}
+h1{
+  margin: 50px auto 0 auto;
+  font-family: "Sacramento", cursive;
+  font-size: 350%;
+  color: #66BFBF;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.0rem;
+  color: #66BFBF;
+  font-weight: normal;
+}
+.hello{
+  text-align: center;
+  color: #40514E;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 130%;
+}
+hr{
+  width: 10%;
+  border-top: 15px dotted #EAF6F6;
+}
+span{
+  text-decoration: underline;
+}
+h3{
+  font-family: 'Montserrat', sans-serif;
+  color: #11999E;
+  font-size: 100%;
+}
+.row{
+  color: #11999E;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 100%;
+}
+a{
+  color: #11999E;
+}
+.bottom-cloud{
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.top-cloud{
+  position: absolute;
+  right: 300px;
+  top: 60px;
+}
+.middle-container{
+  position: relative;
+  padding-top: 50px;
+  font-family: "Merriweather", sans-serif;
+  font-size: 100%;
+}
+.hel{
+  padding-top: 50px;
+  font-family: "Merriweather", sans-serif;
+  font-size: 2.4rem;
+}
+.display-picture{
+  text-align: center;
+  width: 25%;
+  margin: 0;
+}
+.skills{
+  color: #40514E;
+}
+.side{
+  width: 150px;
+  height: 150px;
+}
+.skill-row{
+  width: 50%;
+  text-align: left;
+  margin: 100px auto 100px auto;
+  line-height: 2;
+  font-family: 'Montserrat', sans-serif;
+  font-size: 100%;
+}
+.paragraph{
+  line-height: 1.2;
+}
+.skill-picture{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.side{
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+.get{
+  font-family: "Merriweather", sans-serif;
+  font-size: 180%;
+}
+.business{
+  text-align: center;
+  color: #11999E;
+}
+button{
+  background-color: #11999E;
+  border-radius: 12px;
+  padding: 15px;
+  margin: 50px auto 50px auto;
+  color: white;
+}
+.bottom-container{
+  background-color: #66BFBF;
+  padding: 30px;
+}
+.footer-link{
+  margin-right: 50px;
+  color: #11999E;
+  font-family: "Merriweather", sans-serif;
+  font-size: 1.2rem;
+  padding-top: 20px;
+}
+.foot{
+  color: #EAF6F6;
+  font-family: "Merriweather", sans-serif;
+  font-size: 1rem;
+  padding-top: 0;
+}
