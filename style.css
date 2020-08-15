@@ -135,7 +135,7 @@ button{
   padding-top: 0;
 }
 
-@media(min-width: 407px){
+@media(max-width: 407px){
 
   h1{
     font-size: 550%;
